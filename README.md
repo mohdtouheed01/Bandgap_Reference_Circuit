@@ -56,23 +56,7 @@ The circuit was analyzed in Cadence Virtuoso using:
 
 The simulations were used to study the temperature dependence and stability of the generated reference voltage.
 
-## Layout
-
-The CMOS bandgap reference layout was implemented in Cadence Virtuoso.
-
-Layout screenshots and design files are included in the repository where applicable.
-
-## Verification
-
-The design flow includes:
-
-- DRC
-- LVS
-- Parasitic extraction, where applicable
-- Post-layout simulation, where applicable
-
 ## Tools
 
-- Cadence Virtuoso
-- Spectre
-- GPDK180
+- LTspice
+- CMOS130nm
